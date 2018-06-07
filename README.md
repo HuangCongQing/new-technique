@@ -3,6 +3,11 @@
 
 ### Documentation
 
+### periodical(期刊)
+
+* IJCAI (1+): AI最好的综合性会议
+* AAAI (1): 美国人工智能学会AAAI的年会
+
 ### Examples
 
 ### Installation
