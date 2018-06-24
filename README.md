@@ -50,6 +50,33 @@ ABCT(AI,big data,cloud,iot)
 * IJCAI (1+): AI最好的综合性会议
 * AAAI (1): 美国人工智能学会AAAI的年会
 
+### 顶级会议
+
+国外
+[NIPS(神经信息处理系统年会)](https://nips.cc/ "NIPS(神经信息处理系统年会)")
+
+[ICML(国际机器学习会议)](https://2017.icml.cc/ "ICML(国际机器学习会议)")
+
+[KDD(知识发现和数据挖掘)](http://www.kdd.org/ "KDD(知识发现和数据挖掘)")
+
+[ICLR(国际学习代表会议)](http://www.iclr.cc/ "ICLR(国际学习代表会议)")
+
+[ACL(计算语言学协会)](http://acl2017.org/ "ACL(计算语言学协会)")
+
+[EMNLP(自然语言处理实证方法)](http://emnlp2017.net/ "EMNLP(自然语言处理实证方法)")
+
+[CVPR(计算机视觉和模式识别)](http://cvpr2017.thecvf.com/ "CVPR(计算机视觉和模式识别)")
+
+[ICCF(国际计算机视觉会议)](http://iccv2017.thecvf.com/ "ICCF(国际计算机视觉会议)")
+
+国内
+
+[CCAI(中国人工智能大会)](http://ccai.caai.cn/ "CCAI(中国人工智能大会)")
+
+
+
+
+
 ### 技术网站
 
 * https://dzone.com/
