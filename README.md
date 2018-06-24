@@ -80,6 +80,7 @@ ABCT(AI,big data,cloud,iot)
 ### 技术网站
 
 * https://dzone.com/
+* http://www.tinymind.cn/sites
 
 ### Examples
 
