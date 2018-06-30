@@ -79,10 +79,30 @@ ABCT(AI,big data,cloud,iot)
 
 
 
-### 技术网站
+### 技术文章网站
+
+
+* http://www.tinymind.cn/sites
+
+----
 
 * https://dzone.com/
-* http://www.tinymind.cn/sites
+
+* https://codeburst.io/
+
+* https://dev-blog.apollodata.com/
+
+* https://medium.com
+
+* htttps://hackernoon.com
+
+* http://www.microtica.com/
+
+* https://www.infoq.com
+
+* https://www.datawire.io/
+
+* https://articles.microservices.com
 
 ### Examples
 
