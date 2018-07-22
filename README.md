@@ -26,7 +26,9 @@
 ## 多屏互传
 ## 3D投影
 
+#新名词
 
+* 自带设备办公 (BYOD)
 
 
 
@@ -117,6 +119,8 @@ ABCT(AI,big data,cloud,iot)
 * https://articles.microservices.com
 
 * https://www.informationsecuritybuzz.com
+
+* https://www.entrepreneur.com
 
 国内
 
