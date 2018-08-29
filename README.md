@@ -122,6 +122,8 @@ ABCT(AI,big data,cloud,iot)
 
 * https://www.entrepreneur.com
 
+* https://www.linode.com/
+
 国内
 
 http://www.hello-code.com/index
