@@ -11,7 +11,7 @@
 ## 全民无线存储
 ## 可穿戴设备
 ## 便携式超级计算机
-## 无人驾驶
+## 无人驾驶（self-driving car/driverless car）
 ## 物联网（IoT）
 ## 微服务(Microservices)（2018-6-13知）
 ## 量子计算技术
