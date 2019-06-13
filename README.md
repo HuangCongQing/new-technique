@@ -2,33 +2,58 @@
 新技术持续追踪中（人工智能，云计算，大数据，区块链... ...）
 
 ## 人工智能（AI）
+* [AI](https://github.com/HuangCongQing/AI)
+
 ## 虚拟现实（VR）/增强现实(AR)
+* [VR-AR](https://github.com/HuangCongQing/VR-AR)
+
 ## 云计算(Cloud Computing)
+* [Cloud-Computing](https://github.com/HuangCongQing/Cloud-Computing)
+
 ## 大数据（Big Data）
+*  [Big-Data](https://github.com/HuangCongQing/Big-Data)
+
 ## 边缘计算(Edge computing)
+* [Edge-computing](https://github.com/HuangCongQing/Edge-computing)
+
 ## 比特币/区块链（BlockChain）
+* [BlockChain](https://github.com/HuangCongQing/BlockChain)
+
 ## 3D打印（3DP）（与制造人体健康）
+* [3DP](https://github.com/HuangCongQing/3DP)
+
 ## 全民无线存储
 ## 可穿戴设备
 ## 便携式超级计算机
 ## 无人驾驶（self-driving car/driverless car）
+* [driverless](https://github.com/HuangCongQing/driverless)
+
 ## 物联网（IoT）
 ## 微服务(Microservices)（2018-6-13知）
+* [Microservices](https://github.com/HuangCongQing/Microservices)
+
 ## 量子计算技术
+*  [Quantum-Computing](https://github.com/HuangCongQing/Quantum-Computing)
+
 ## DevOps（2018-618）
     （Development和Operations的组合词）是一种重视“软件开发人员（Dev）”和“IT运维技术人员（Ops）”之间沟通合作的文化、运动或惯例。透过自动化“软件交付”和“架构变更”的流程，来使得构建、测试、发布软件能够更加地快捷、频繁和可靠。
+* [DevOps](https://github.com/HuangCongQing/DevOps)
+
 ## 混合现实的体感交互 
 
 ## 敏捷开发(agile development)
+* [agile-development](https://github.com/HuangCongQing/agile-development)
 
 ## Featured in AI, ML & Data Engineering
 
 ## 多屏互传
 ## 3D投影
 
+
 #新名词
 
 * 自带设备办公 (BYOD)
+[BYOD](https://github.com/HuangCongQing/BYOD)
 
 
 
