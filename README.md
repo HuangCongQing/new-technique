@@ -120,7 +120,7 @@ ABCT(AI,big data,cloud,iot)
 
 * https://medium.com
 
-* htttps://hackernoon.com
+* https://hackernoon.com
 
 * http://www.microtica.com/
 
